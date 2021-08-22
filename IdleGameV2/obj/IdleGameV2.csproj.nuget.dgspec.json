@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eleme\\source\\repos\\IdleGameV2\\IdleGameV2.csproj": {}
+    "C:\\Users\\eleme\\source\\repos\\IdleGame\\IdleGameV2\\IdleGameV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eleme\\source\\repos\\IdleGameV2\\IdleGameV2.csproj": {
+    "C:\\Users\\eleme\\source\\repos\\IdleGame\\IdleGameV2\\IdleGameV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eleme\\source\\repos\\IdleGameV2\\IdleGameV2.csproj",
+        "projectUniqueName": "C:\\Users\\eleme\\source\\repos\\IdleGame\\IdleGameV2\\IdleGameV2.csproj",
         "projectName": "IdleGameV2",
-        "projectPath": "C:\\Users\\eleme\\source\\repos\\IdleGameV2\\IdleGameV2.csproj",
+        "projectPath": "C:\\Users\\eleme\\source\\repos\\IdleGame\\IdleGameV2\\IdleGameV2.csproj",
         "packagesPath": "C:\\Users\\eleme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eleme\\source\\repos\\IdleGameV2\\obj\\",
+        "outputPath": "C:\\Users\\eleme\\source\\repos\\IdleGame\\IdleGameV2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eleme\\AppData\\Roaming\\NuGet\\NuGet.Config",

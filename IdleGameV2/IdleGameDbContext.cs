@@ -14,6 +14,22 @@ namespace IdleGameV2
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
 			base.OnModelCreating(modelBuilder);
+
+			Player player = new Player()
+			{
+				Id = 1,
+				UserName = "default",
+				Level = 1,
+				Experience = 0,
+				Strength = 0,
+				Defense = 0,
+				Speed = 0,
+				Gold = 50,
+				Health = 100,
+				MagicFind = 5
+			};
+
+			modelBuilder.Entity<Player>().HasData(player);
 		}
 	}
 }

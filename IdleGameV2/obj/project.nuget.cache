@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oLsasy+5TEXE7HAlGHQbJwA7eo3CUJPKcFOuv6/yy6dpY5BMtYrUWvcWUGJuwtrMMjsnY3J7DVrI2du5YmUIYg==",
+  "dgSpecHash": "gSMnxRx3t5tOxntznkjs5ekInE9UROQh9aDV7bv4wj6iSdYZpovKRJBqBY5K49CCE446hhMu76RXxVxKuF1m1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eleme\\source\\repos\\IdleGameV2\\IdleGameV2.csproj",
+  "projectFilePath": "C:\\Users\\eleme\\source\\repos\\IdleGame\\IdleGameV2\\IdleGameV2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eleme\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.9\\microsoft.entityframeworkcore.5.0.9.nupkg.sha512",
     "C:\\Users\\eleme\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.9\\microsoft.entityframeworkcore.abstractions.5.0.9.nupkg.sha512",
