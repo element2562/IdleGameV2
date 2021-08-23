@@ -13,7 +13,8 @@ namespace IdleGameV2.Entities
 		public int DefenseBonus { get; set; }
 		public int HealthBonus { get; set; }
 		public int SpeedBonus { get; set; }
-
+		public int LevelRequirement { get; set; }
+		public int Price { get; set; }
 		public virtual Player player { get; set; }
 	}
 }
