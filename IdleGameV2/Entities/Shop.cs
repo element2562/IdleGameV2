@@ -11,3 +11,5 @@ namespace IdleGameV2.Entities
 		public ICollection<Item> ItemsForSale { get; set; }
 	}
 }
+
+//test
